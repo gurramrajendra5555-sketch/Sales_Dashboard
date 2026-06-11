@@ -32,6 +32,8 @@
 ✅ **Time Series Analysis** - Monthly sales trends  
 ✅ **Customer Ratings** - Quality and satisfaction metrics  
 ✅ **Multi-level Summaries** - Quick insight tables  
+## 📸 Dashboard Preview
+   ![Sales Dashboard](sales-dashboard-screenshot.png)
 
 ---
 
