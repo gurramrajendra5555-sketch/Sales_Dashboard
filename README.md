@@ -102,7 +102,32 @@
 7. **Forecasting** - Predict future sales based on trends
 
 ---
+## 💡 Key Insights & Findings
 
+**Top Performing Product Categories:**
+- Beauty generates the highest revenue ($69,920)
+- Books comes second ($65,475)
+- Clothing contributes ($52,819)
+
+**Regional Performance:**
+- Latin America leads with highest sales
+- Europe and Asia Pacific perform equally
+- North America shows growth potential
+
+**Customer Insights:**
+- Average customer rating: 3.01/5.0
+- Premium customers show higher satisfaction
+- Standard segment drives volume
+
+**Operational Metrics:**
+- Average transaction: $254.68
+- Most popular payment method: Credit Card
+- Processing status most common for shipping
+
+**Business Opportunities:**
+- Low ratings in certain categories indicate improvement areas
+- Budget segment shows price sensitivity
+- Crypto payments gaining adoption
 ## 📈 Key Metrics
 
 - **Total Sales Range**: $12.27 - $499.86 per transaction
